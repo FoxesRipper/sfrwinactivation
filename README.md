@@ -2,4 +2,4 @@ Last version beta 0.3 - [Download sfrwinactivation](https://github.com/FoxesRipp
 
 Version beta 0.2 - [Download sfrwinactivation](https://github.com/FoxesRipper/sfrwinactivation/releases/download/sfrwinactivation-0.2-beta/sfrwinactivation.exe)
 
-At the «Beta 0.2» stage, only the Windows activator is guaranteed to work for now
+At the “Beta 0.3” stage only the activator for Windows, installation of Microsoft Office 2021 and accordingly activation of it is guaranteed to work for now.
