@@ -1,4 +1,6 @@
-Last version beta 0.5 - [Download sfrwinactivation 0.5](https://github.com/FoxesRipper/sfrwinactivation/releases/download/sfrwinactivation/sfrwinactivation.exe)
+Last version beta 0.6 - [Download sfrwinactivation 0.6](https://github.com/FoxesRipper/sfrwinactivation/releases/download/sfrwinactivation/sfrwinactivation.exe)
+
+Version beta 0.5 - [Download sfrwinactivation 0.5](https://github.com/FoxesRipper/sfrwinactivation/releases/download/sfrwinactivation-0.5-beta/sfrwinactivation.exe)
 
 Version beta 0.4 - [Download sfrwinactivation 0.4](https://github.com/FoxesRipper/sfrwinactivation/releases/download/sfrwinactivation-0.4-beta/sfrwinactivation.exe)
 
