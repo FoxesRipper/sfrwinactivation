@@ -9,7 +9,7 @@ Version beta 0.3 - [Download sfrwinactivation 0.3](https://github.com/FoxesRippe
 Version beta 0.2 - [Download sfrwinactivation 0.2](https://github.com/FoxesRipper/sfrwinactivation/releases/download/sfrwinactivation-0.2-beta/sfrwinactivation.exe)
 
 
-At the “Beta 0.5” stage only the activator for Windows, installation of Microsoft Office 2021 and accordingly activation of it is guaranteed to work for now.
+At the “Beta 0.6” stage, only Windows activation, installing Microsoft Office 2021/2016 and therefore activating it, installing Microsoft Store, enabling/disabling ms-gamingoverlay are guaranteed to work so far.
 
 The application activates the following Windows versions:
 1. Windows 10 home/pro
