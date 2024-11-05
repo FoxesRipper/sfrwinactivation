@@ -1,9 +1,9 @@
-Последняя версий - [Download sfrwinactivation Release 1.0](https://github.com/FoxesRipper/sfrwinactivation/releases/download/sfrwinactivation/sfrwinactivation.exe)
+Latest version - [Download sfrwinactivation Release 1.0](https://github.com/FoxesRipper/sfrwinactivation/releases/download/sfrwinactivation/sfrwinactivation.exe)
 
-Прошлые версии - [Установить](https://github.com/FoxesRipper/sfrwinactivation/releases)
+Previous versions - [Download](https://github.com/FoxesRipper/sfrwinactivation/releases)
 
-На стадии «Release 1.0» пока гарантированно работают только: активация Windows, установка Microsoft Office 2021/2016 и соответственно, его активация, установка Microsoft Store, включение/отключение ms-gamingoverlay, удаление защитника Windows.
+At the «Release 1.0» stage, the only things guaranteed to work so far are: activating Windows, installing Microsoft Office 2021/2016 and activating it accordingly, installing Microsoft Store, enabling/disabling ms-gamingoverlay, uninstalling Windows Protector.
 
-Приложение может активровать следующие версии Windows:
+The application can activate the following versions of Windows:
 1. Windows 10 home/pro/LTSC
 2. Windows 11 home/pro/LTSC
