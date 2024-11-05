@@ -1,25 +1,34 @@
-0.6 - Добавлено:
-            Возможность установки Microsoft Store.
-            Отключение/Включение ms-gamingoverlay.
-            Возможность удаление защитника Windows.
-      Исправлено:
-            Неправильная разблокировка кнопки "Установить" после активации Microsoft Office.
+1.0 - Release version released
+      Fixed:
+            Unlocking «OneNote» and «Outlook» checkboxes incorrectly.
+            locking the activate «Office» button».
+            Unlocking the «Install button».
+      Upgraded:
+            Front.
+            Icon app.
 
-0.5 - Добавлено:
-            Возможность установки и активации Microsoft Office 2016.
-      Убрано:           
-            Кнопки установки Microsoft Store, отключение/включение ms-gamingoverlay, в связи с их неработоспособностью.
+0.6 - Added:
+            Ability to install the «Microsoft Store».
+            Disable/Include «ms-gamingoverlay».
+            Ability to remove «Windows defender.
+      Fixed:
+            Incorrect unlocking of the Install button after Microsoft Office activation.
 
-0.4 - Исправлено:
-            Зависание приложения при активации Windows LTSC.
-            Разблокировка кнопок после активации Windows LTSC.
-      Улушено:
-            Внешний вид приложения на Windows 10.
-            Скорость активации Windows LTSC.
+0.5 - Added:
+            Ability to install and activate «Microsoft Office 2016».
+      Removed:           
+            «Microsoft Store install buttons», disable/enable «ms-gamingoverlay», due to them not working.
 
-0.3 - Добавлено:
-            Возможность установки Microsoft Office и его активация.
-            Комментарии на разных этапах выполнения действий.
+0.4 - Fixed:
+            Application hangs when activating «Windows LTSC».
+            Unlocking buttons after Windows LTSC activation.
+      Upgraded:
+            Appearance of the app on Windows 10.
+            Windows LTSC activation speed.
+
+0.3 - Added:
+            Ability to install «Microsoft Office 2021» and activate it.
+            Comments at different stages of performing actions.
       
-0.2 - Добавлено: 
-            Возможность обновления приложеная.
+0.2 - Added:
+            Ability to update the app.
