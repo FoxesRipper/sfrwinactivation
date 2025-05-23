@@ -208,10 +208,18 @@
         </div>
         <div class="download-section" id="downloads">
             <div class="download-buttons">
-                <a href="#" class="download-btn" onclick="downloadFile('windows')">
+                <a href="https://github.com/FoxesRipper/sfrwinactivation/releases/download/sfrwinactivation/sfrwinactivation.exe" 
+                   class="download-btn" 
+                   target="_blank"
+                   rel="noopener noreferrer"
+                   onclick="handleDownload(this, 'EN')">
                     ⬇ Download EN v1.0
                 </a>
-                <a href="#" class="download-btn" onclick="downloadFile('linux')">
+                <a href="https://github.com/FoxesRipper/sfrwinactivation/releases/download/sfrwinactivation/sfrwinactivation.exe" 
+                   class="download-btn" 
+                   target="_blank"
+                   rel="noopener noreferrer"
+                   onclick="handleDownload(this, 'RU')">
                     ⬇ Download RU v1.0
                 </a>
             </div>
@@ -260,6 +268,7 @@
                 }, speed);
             });
         }
+        
         async function showAsciiAndButtons() {
             const content = document.getElementById('content');
             const downloads = document.getElementById('downloads');
@@ -271,7 +280,8 @@
             asciiElement.style.lineHeight = '1.2';
             asciiElement.style.whiteSpace = 'pre';
             asciiElement.style.marginBottom = '10px';
-            asciiElement.textContent = `███████╗███████╗██████╗ ████████╗ ██████╗  ██████╗ ██╗     
+            asciiElement.textContent = `
+███████╗███████╗██████╗ ████████╗ ██████╗  ██████╗ ██╗     
 ██╔════╝██╔════╝██╔══██╗╚══██╔══╝██╔═══██╗██╔═══██╗██║     
 ███████╗█████╗  ██████╔╝   ██║   ██║   ██║██║   ██║██║     
 ╚════██║██╔══╝  ██╔══██╗   ██║   ██║   ██║██║   ██║██║     
@@ -308,22 +318,19 @@
             await showAsciiAndButtons();
         }
         
-        function downloadFile(platform) {
-            const links = {
-                windows: 'https://github.com/FoxesRipper/sfrwinactivation/releases/download/sfrwinactivation/sfrwinactivation.exe',
-                linux: 'https://github.com/FoxesRipper/sfrwinactivation/releases/download/sfrwinactivation/sfrwinactivation.exe'
-            };
-            
-            const btn = event.target;
-            const originalText = btn.textContent;
-            btn.textContent = 'Downloading...';
-            btn.style.pointerEvents = 'none';
+        function handleDownload(element, version) {
+            const originalText = element.textContent;
+            element.textContent = 'Downloading...';
+            element.style.pointerEvents = 'none';
+            element.style.opacity = '0.7';
             
             setTimeout(() => {
-                btn.textContent = originalText;
-                btn.style.pointerEvents = 'auto';
-                console.log(`Downloading ${platform} version`);
-            }, 2000);
+                element.textContent = originalText;
+                element.style.pointerEvents = 'auto';
+                element.style.opacity = '1';
+            }, 3000);
+            
+            return true;
         }
         
         window.addEventListener('load', () => {
