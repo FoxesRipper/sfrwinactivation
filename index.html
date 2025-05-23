@@ -297,7 +297,7 @@
                     lineElement.innerHTML = '&nbsp;';
                     await new Promise(resolve => setTimeout(resolve, 200));
                 } else if (lineData.type === 'command') {
-                    await typeText(lineElement, lineData.text, 10);
+                    await typeText(lineElement, lineData.text, 7);
                     await new Promise(resolve => setTimeout(resolve, 300));
                 } else {
                     lineElement.textContent = lineData.text;
