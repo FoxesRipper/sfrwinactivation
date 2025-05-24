@@ -1,5 +1,7 @@
 Latest version EN - [Download sfrwinactivation Release 1.0](https://github.com/SFoxesRipper/SFRtool/releases/download/SFRtool-en/SFRtool.exe)
+
 Latest version RU - [Download sfrwinactivation Release 1.0](https://github.com/SFoxesRipper/SFRtool/releases/download/SFRtool-ru/SFRtool.exe)
+
 
 Previous versions - [Download](https://github.com/SFoxesRipper/SFRtool/releases)
 
