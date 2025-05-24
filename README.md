@@ -1,7 +1,7 @@
 Latest version EN - [Download sfrwinactivation Release 1.0](https://github.com/SFoxesRipper/SFRtool/releases/download/SFRtool-en/SFRtool.exe)
 Latest version RU - [Download sfrwinactivation Release 1.0](https://github.com/SFoxesRipper/SFRtool/releases/download/SFRtool-ru/SFRtool.exe)
 
-Previous versions - [Download](https://github.com/SFoxesRipper/sfrwinactivation/releases)
+Previous versions - [Download](https://github.com/SFoxesRipper/SFRtool/releases)
 
 At the «Release 1.0» stage, the only things guaranteed to work so far are: activating Windows, installing Microsoft Office 2021/2016 and activating it accordingly, installing Microsoft Store, enabling/disabling ms-gamingoverlay, uninstalling Windows Protector.
 
